@@ -1,12 +1,8 @@
-<div align="center">
 
 # Aseprite-GTK-theme
 
 ### A Linux GTK theme inspired by Aseprite's pixel-perfect aesthetic
 
-<img src="preview.png" alt="Aseprite GTK Theme Preview" width="650" style="border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
-
-</div>
 
 ---
 
@@ -19,6 +15,23 @@ A clean, pixel-art inspired GTK theme that brings Aseprite's distinctive look to
 - **Desktop Environment:** XFCE
 - **Font:** Undefined Medium
 - **Wallpaper:** [Download here](https://imgur.com/a/mN1T0em)
+
+
+## 📸 Gallery
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🎨 <a href="https://github.com/lizbeanz/Aseprite-GTK-theme">XFCE4 with Aseprite-GTK-theme</a></h4>
+      <img src="preview.png" width="100%">
+      <p align="center">
+        <img src="https://img.shields.io/badge/DE-XFCE4-blue?style=flat-square">
+        <img src="https://img.shields.io/badge/Font-Undefined Medium-purple?style=flat-square">
+      </p>
+      <p><i>Pixel-perfect aesthetic inspired by Aseprite</i></p>
+    </td>
+  </tr>
+</table>
 
 ## 📦 Installation
 
@@ -48,7 +61,6 @@ sudo git clone https://github.com/lizbeanz/Aseprite-GTK-theme.git /usr/share/the
 2. Navigate to **Appearance**
 3. Select **Aseprite-GTK-theme** from the list
 4. (Optional) Go to **Window Manager** settings to apply matching window decorations
-
 
 ### Other Desktop Environments
 
